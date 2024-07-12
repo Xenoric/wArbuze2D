@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c2648be8736c4245b8bbaf7b8b42bc3, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: a4b514bc695c84b4cb93ee8b0250a9c3, type: 3}
+  iconMaxWidth: 192
+  title: 2D Sci-Fi Platformer
+  sections:
+  - heading: Rendering Pipeline
+    text: This package works with Universal and Built-in rendering pipelines. You
+      can switch to URP or Built-in pipeline manually by importing 'Rendering Pipeline
+      Template' package from Assets/FORGE3D/2D Sci-Fi Platformer/SRP Templates
+    linkText: 
+    url: 
+  - heading: Project Settings
+    text: The project settings files including layers and sorting layers are required
+      for this project to run. The required project settings should be configured
+      automatically during the asset store import process.You can always import them
+      manually from ProjectSettings.zip located in the root folder of the asset.
+      It is also recommended making a clean project upon asset import to avoid any
+      problems with overwriting your existing project settings files.
+    linkText: 
+    url: 
+  - heading: Artwork
+    text: All art assets are presented in PSD files with smart objects and structured
+      layers for your convenience in /Assets/FORGE3D/2D Sci-Fi Platformer/PSD Source/
+      folder
+    linkText: 
+    url: 
+  - heading: Online documentation
+    text: 
+    linkText: https://docs.forge3d.com
+    url: https://docs.forge3d.com
+  - heading: Discord
+    text: 
+    linkText: https://discord.gg/EfvSqJaSgh
+    url: https://discord.gg/EfvSqJaSgh
+  - heading: Contact form
+    text: 
+    linkText: https://www.forge3d.com/contact
+    url: https://www.forge3d.com/contact
+  loadedLayout: 1
